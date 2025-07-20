@@ -51,3 +51,8 @@ Cardano (ADA)
 CSV Export: crypto_data.csv
 
 Charts: Displayed directly in notebook using matplotlib and seaborn
+
+📬 Connect With Me
+Saish Kocharekar 🔗 www.linkedin.com/in/saish-kocharekar0916 📧saishkocharekar@gmail.com
+
+
